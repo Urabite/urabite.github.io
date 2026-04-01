@@ -15,9 +15,10 @@ title: Pushkar Chotalia's Portfolio # This is what shows up in the tab of the br
 name: Pushkar Chotalia
 headline: Mechanical Engineering Student @ ASU
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Freshman mechanical engineering student at Arizona State University 
-  with hands-on experience in CAD, 3D printing, and hardware-software 
-  integration.
+  Freshman mechanical engineering student at Arizona State University (4.0 GPA)
+  with hands-on experience in CAD, embedded systems, and hardware-software
+  integration. Active ASME member pursuing a sophomore internship in mechanical
+  engineering.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
