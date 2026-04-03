@@ -9,5 +9,5 @@ skills:
   - FDM 3D Printing
   - Linux/SSH
   - Breadboarding
-main-image: /project.webp
+main-image: /ARIA.jpg
 ---
